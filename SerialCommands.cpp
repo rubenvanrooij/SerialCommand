@@ -5,7 +5,7 @@
 	@license  BSD (see license.txt)
  
     This is library sends and receives commands on the arduino serial
-    port. It's based on tasasaki's example on the Arduino form.
+    port. It's based on tasasaki's example on the Arduino form. 
 */
 /**************************************************************************/
 #if ARDUINO >= 100
